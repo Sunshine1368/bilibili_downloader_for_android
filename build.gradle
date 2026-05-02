@@ -1,0 +1,5 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    // 这里以 Android Gradle Plugin 8.3.0 为例，如果你使用的是其他版本的 AS，这里可能需要改成 8.0.x ~ 8.4.x
+    id 'com.android.application' version '8.3.0' apply false
+}
