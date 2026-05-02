@@ -1,1 +1,15 @@
+# 编译输出
 /build
+/app/build
+
+# Gradle 缓存
+.gradle
+
+# IDE 文件（如果是 Android Studio 项目建议加上）
+.idea/
+*.iml
+local.properties
+
+# 其他常见忽略
+.DS_Store
+*.log
